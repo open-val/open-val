@@ -1,6 +1,6 @@
 - 👋 Oi, Sou a @open-val.
 - 👀 No momento estou interessada em aprender mais sobre programação.
-- 🌱 Atualmente estou estudando o básico de algumas linguagens do Front-end e Lógica da Programação.
+- 🌱 Atualmente estou estudando o básico de HTML, CSS e de algumas linguagens do Front-end e Lógica da Programação.
 - ✨ Estou aberta a dicas e fazer amizades na área.
 - Bye!
 
