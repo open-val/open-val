@@ -1,3 +1,4 @@
+![Capa do Perfil](https://uploaddeimagens.com.br/images/004/592/436/full/GitHub_Perfil.png?1693346660)
 # Sobre mim
 Oi 👋🏽
 
