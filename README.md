@@ -1,7 +1,7 @@
 # Sobre mim
 Oi 👋🏽
 
-Meu nome é Valéria, tenho 23 anos, sou graduada em Ciências Econômicas e atualmente curso Processos Gerenciais. Gosto muito de entender como as coisas funcionam e o fluxo delas.
+Meu nome é Valéria, tenho 23 anos, sou graduada em Ciências Econômicas e atualmente curso Processos Gerenciais. Gosto muito de entender como as coisas funcionam e o fluxo delas, por isso estudo sobre Gerenciamento de Projetos também.
 
 Estou começando a entrar mais na área Tech e meu foco no momento está sendo Análise de Dados, Power BI e linguagens de programação como SQL e Python, busco também aprender mais sobre a área de Desenvolvimento Front-end.
 
